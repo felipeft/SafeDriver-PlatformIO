@@ -44,7 +44,7 @@ A ligação dos componentes foi projetada no KiCad, considerando controle PWM pa
 <img src="./images/esquematico.jpeg" alt="Esquemático Elétrico" width="30%" style="margin-right: 10px;">
 
 ### Interface Web (ESP32)
-<img src="./images/web.jpeg" alt="Interface Web" width="50%" style="margin-right: 10px;">
+<img src="./images/sisweb.jpeg" alt="Interface Web" width="50%" style="margin-right: 10px;">
 
 ---
 
