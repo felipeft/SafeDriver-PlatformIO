@@ -32,16 +32,16 @@ A ligação dos componentes foi projetada no KiCad, considerando controle PWM pa
 ## 📷 Imagens do Projeto
 
 ### Carrinho Montado
-![Carrinho Montado](images/carrinho_montado.jpg)
+![Carrinho Montado](images/final.jpeg)
 
 ### Visão Superior
-![Topo](images/carrinho_topo.jpg)
+![Topo](images/topo.jpeg)
 
 ### Esquemático Elétrico (KiCad)
 ![Esquemático](images/esquematico_kicad.png)
 
 ### Interface Web (ESP32)
-![Interface](images/interface_web.png)
+![Interface](images/web.png)
 
 ---
 
