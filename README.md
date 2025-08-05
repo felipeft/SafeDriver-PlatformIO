@@ -34,7 +34,7 @@ A ligação dos componentes foi projetada no KiCad, considerando controle PWM pa
 ### Resultado Final
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="./images/final.jpeg" alt="Carro Autônomo" width="30%" style="margin-right: 10px;">
-    <img src="./images/ezgif-7f3fa379c87427.gif" alt="Carro em movimento" width="50%">
+    <img src="./images/finalEmMovimento.gif" alt="Carro em movimento" width="50%">
 </div>
 
 ### Visão Superior
