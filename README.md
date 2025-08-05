@@ -31,17 +31,20 @@ A ligação dos componentes foi projetada no KiCad, considerando controle PWM pa
 
 ## 📷 Imagens do Projeto
 
-### Carrinho Montado
-![Carrinho Montado](images/final.jpeg)
+### Resultado Final
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="./images/final.jpeg" alt="Carro Autônomo" width="30%" style="margin-right: 10px;">
+    <img src="./images/ezgif-7f3fa379c87427.gif" alt="Carro em movimento" width="50%">
+</div>
 
 ### Visão Superior
-![Topo](images/topo.jpeg)
+<img src="./images/topo.jpeg" alt="Visão Superior" width="30%" style="margin-right: 10px;">
 
 ### Esquemático Elétrico (KiCad)
-![Esquemático](images/esquematico_kicad.png)
+<img src="./images/esquematico.jpeg" alt="Esquemático Elétrico" width="30%" style="margin-right: 10px;">
 
 ### Interface Web (ESP32)
-![Interface](images/web.png)
+<img src="./images/web.jpeg" alt="Interface Web" width="50%" style="margin-right: 10px;">
 
 ---
 
