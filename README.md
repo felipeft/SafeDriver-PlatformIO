@@ -34,11 +34,12 @@ A ligação dos componentes foi projetada no KiCad, considerando controle PWM pa
 ### Resultado Final
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="./images/final.jpeg" alt="Carro Autônomo" width="30%" style="margin-right: 10px;">
-    <img src="./images/finalEmMovimento.gif" alt="Carro em movimento" width="50%">
+    <img src="./images/topo.jpeg" alt="Visão Superior" width="30%" style="margin-right: 10px;">
+    <img src="./images/finalEmMovimento.gif" alt="Carro em movimento" width="32.15%">
 </div>
 
 ### Visão Superior
-<img src="./images/topo.jpeg" alt="Visão Superior" width="30%" style="margin-right: 10px;">
+
 
 ### Esquemático Elétrico (KiCad)
 <img src="./images/esquematico.jpeg" alt="Esquemático Elétrico" width="80%" style="margin-right: 10px;">
